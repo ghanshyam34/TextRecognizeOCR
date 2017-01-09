@@ -1,0 +1,96 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <SurfaceView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/camera_frame"
+            android:layout_centerInParent="true"
+            />
+
+        <ImageView
+            android:id="@+id/capture_imageview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:layout_centerInParent="true"/>
+
+        <TextView
+            android:id="@+id/tap_msgview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please Tap on view for Focus"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/white"
+            android:padding="4dp"/>
+
+        <RelativeLayout
+            android:id="@+id/crossRlayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:padding="15dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/close_button"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/footerLnrlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/colorPrimaryDark"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:gravity="center">
+
+
+        <LinearLayout
+            android:id="@+id/capture_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@mipmap/camera_click"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/donebt"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="right|center_vertical">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="20dp"
+                android:background="@mipmap/save"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
