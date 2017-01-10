@@ -1,3 +1,4 @@
+#Text Recognize Example demo
 This demo contins the code for recognize the text from image through Cloud OCR SDK
 For Running this example you need app credential by creating app from register at http://cloud.ocrsdk.com/Account/Welcome 
 You should get e-mail from ABBYY Cloud OCR SDK service with the application password
