@@ -6,4 +6,4 @@
 #####aftrer getting app credential update the following in ResultActivity.java class ,please see the above example demo , this #####will work perfect to recognize text
 
 #####public static final String APP_ID  = "textrecognizeappid";
-#####public static final String PASSWORD  = "qDmbzYMMsH6urtyuhtLq449G5";
+public static final String PASSWORD  = "qDmbzYMMsH6urtyuhtLq449G5";
