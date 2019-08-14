@@ -8,3 +8,8 @@
 
 #####public static final String APP_ID  = "textrecognizeappid";
 public static final String PASSWORD  = "qDmbzYMMsH6urtyuhtLq449G5";
+
+
+Please see the below example in Screen shots
+
+<img src="https://raw.githubusercontent.com/ghanshyam34/TextRecognizeApiExample/master/Screenshot_20190814_130836_com.twende.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/TextRecognizeApiExample/master/Screenshot_20190814_130836_com.twende.jpg" width="512" height="1024" />
