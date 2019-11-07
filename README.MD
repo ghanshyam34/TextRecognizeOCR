@@ -3,7 +3,8 @@
 
 #Getting Started
 #####For Running this example you need app credential by creating app from register at http://cloud.ocrsdk.com/Account/Welcome 
-#####please see the above example demo , this #####will work perfect to recognize text
+
+#####please see the above example demo,this will work perfect to recognize text
 
 
 Please see the below example in Screen shots
