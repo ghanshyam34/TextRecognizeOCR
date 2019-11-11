@@ -1,11 +1,12 @@
-#Text Recognize Example demo
-#####This demo contins the code for recognize the text from image through Cloud OCR SDK
+# Text Recognize Example demo
 
-#Getting Started
+##### This demo contins the code for recognize the text from image through Cloud OCR SDK
 
-#####For Running this example you need app credential by creating app from register at http://cloud.ocrsdk.com/Account/Welcome 
+# Getting Started
 
-#####please see the above example demo,this will work perfect to recognize text
+##### For Running this example you need app credential by creating app from register at http://cloud.ocrsdk.com/Account/Welcome 
+
+##### please see the above example demo,this will work perfect to recognize text
 
 
 Please see the below example in Screen shots
