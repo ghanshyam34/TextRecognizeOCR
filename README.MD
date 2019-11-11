@@ -9,7 +9,7 @@
 
 Please see the below example in Screen shots
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/TextRecognizeApiExample/master/Screenshot_20190814_130836_com.twende.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/TextRecognizeApiExample/master/Screenshot_20190814_130836_com.twende.jpg" width="490" height="850" />
+<img src="https://raw.githubusercontent.com/ghanshyam34/TextRecognizeOCR/master/img_20191111.png" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/TextRecognizeOCR/master/img_20191111.png" width="490" height="850" />
 
 
 
