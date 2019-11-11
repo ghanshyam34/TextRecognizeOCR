@@ -2,6 +2,7 @@
 #####This demo contins the code for recognize the text from image through Cloud OCR SDK
 
 #Getting Started
+
 #####For Running this example you need app credential by creating app from register at http://cloud.ocrsdk.com/Account/Welcome 
 
 #####please see the above example demo,this will work perfect to recognize text
